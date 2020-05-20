@@ -265,7 +265,7 @@
 
                 </div>
                 <div class="avatar">
-                    <img alt="" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvi.wikipedia.org%2Fwiki%2FManchester_United_F.C.&psig=AOvVaw1f_B5ObdFAhaAsp9mLi7rU&ust=1590034055373000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD6w8rIwekCFQAAAAAdAAAAABAD">
+                    <img alt="" src="//manchester-united-wallpaper-1.jpgS">
                 </div>
                 <div class="info">
                     <div class="title">
