@@ -282,7 +282,7 @@
             </tr>
             <tr>
             	<td>FaceBook: </td>
-            	<td><a href="https://www.facebook.com/chinhlano.vang"></a></td>
+            	<td><a href="https://www.facebook.com/chinhlano.vang"></a>as</td>
             </tr>
 			</table> 
 
