@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
     <title>FPT Greenwich</title>
+    <link rel="stylesheet" href="profile.php">
 </head>
 <body>
     <h1>My first PHP page</h1>
