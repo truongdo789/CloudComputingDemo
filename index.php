@@ -12,6 +12,7 @@
         echo "Wednesday !!!@@@";
         echo "Cloud computing";
         echo "Change in fixbug branch";
+        echo "Truong Do is my love"
     ?>
 </body>
 </html>
