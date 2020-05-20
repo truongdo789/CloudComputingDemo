@@ -274,7 +274,7 @@
             <table>     
             <tr>
             	<td>Name: </td>
-            	<td>Pham Ngoc Dai</td>
+            	<td>Do Van Truong</td>
             </tr>
             <tr>
             	<td>Job: </td>
@@ -282,7 +282,7 @@
             </tr>
             <tr>
             	<td>FaceBook: </td>
-            	<td><a href="https://www.facebook.com/phamdaimk1">https://www.facebook.com/phamdaimk1</a></td>
+            	<td><a href="https://www.facebook.com/chinhlano.vang"></a></td>
             </tr>
 			</table> 
 
