@@ -284,16 +284,10 @@
             	<td>FaceBook: </td>
             	<td><a href="https://www.facebook.com/chinhlano.vang"></a>as</td>
             </tr>
-			</table> 
-
-		
-                
-                </div>
-                
+			</table>        
+                </div>            
             </div>
-
         </div>
-
 	</div>
 </div>
 
